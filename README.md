@@ -6,3 +6,9 @@
 3、chapter3  "boot2-scheduled" 定时任务、同步、并行处理、异步处理
 
 4、chapter4  "boot2-swagger2" swagger2和swagger ui 不一样的自动生成接口API文档
+加依赖 <dependency>
+            <groupId>com.github.xiaoymin</groupId>
+            <artifactId>swagger-bootstrap-ui</artifactId>
+            <version>1.7</version>
+        </dependency>
+ 应用bootstrap-ui 优化swagger管理界面
