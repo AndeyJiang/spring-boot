@@ -13,4 +13,4 @@
         </dependency>
  应用bootstrap-ui 优化swagger管理界面
  
- 5、chapter5  "boot2-mq"  异步处理、解耦、秒杀流量消峰、数据持久化特点
+ 5、chapter5  "boot2-mq"  异步处理、解耦、秒杀流量消峰、数据持久化特点，采用topicExchange最灵活的模式（前提：本地安装MQserver服务，下载web管理界面插件）
