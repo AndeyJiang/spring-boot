@@ -16,3 +16,5 @@
  5、chapter5  "boot2-mq"  异步处理、解耦、秒杀流量消峰、数据持久化特点，采用topicExchange最灵活的模式（前提：本地安装MQserver服务，下载web管理界面插件）
  
  6、chapter6 "boot2-mq-ack" mq消息处理整合ack消息确认机制，手动ack（前提：本地安装MQserver服务，下载web管理界面插件）
+ 
+ 7、chapter7 "boot2-mybatis-mysql" 至于自动生成就算了，个人觉得更费劲，整合mybatis+mysql
