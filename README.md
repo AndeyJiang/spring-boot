@@ -18,3 +18,5 @@
  6、chapter6 "boot2-mq-ack" mq消息处理整合ack消息确认机制，手动ack（前提：本地安装MQserver服务，下载web管理界面插件）
  
  7、chapter7 "boot2-mybatis-mysql" 至于自动生成就算了，个人觉得更费劲，整合mybatis+mysql
+ 
+ 8、chapter8 "boot2-poi" springboot 整合poi 实现Excel读取和写入 ，一个List<>物理分页的一个小方法，挺好用
