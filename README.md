@@ -22,3 +22,5 @@
  8、chapter8 "boot2-poi" springboot 整合poi 实现Excel读取和写入 ，一个List<>物理分页的一个小方法，挺好用
  
  9、chapter9 "boot2-cxf" springboot整合cxf 实现webservice服务发布及客户端的远程调用  忽略wsimport生成实体弊端 实现 代理模式及动态请求
+ 
+ 10、chapter10 "mybatis plus" 还是plus好用啊，好久没用了，怀念一下。
